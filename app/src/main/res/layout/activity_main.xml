@@ -12,6 +12,16 @@
 
     >
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/app_Heading"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:padding="10sp"/>
+
 
     <TextView
         android:layout_width="wrap_content"
@@ -48,7 +58,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="@color/button_bg"
         android:text="@string/buttonText"
-        android:textColor="@color/textColor"
+        android:textColor="@color/black"
         android:textSize="15sp" />
 
 
