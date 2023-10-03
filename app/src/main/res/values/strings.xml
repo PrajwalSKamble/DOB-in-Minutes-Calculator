@@ -5,8 +5,8 @@
     <string name="age">AGE</string>
     <string name="in_minutes">IN MINUTES</string>
     <string name="buttonText">SELECT DATE</string>
-    <string name="date">21/06/2005</string>
+    <string name="date"></string>
     <string name="selectDate">Selected Date</string>
     <string name="minutesText">In Minutes till date</string>
-    <string name="MinutesNumber">1440</string>
+    <string name="MinutesNumber"></string>
 </resources>
